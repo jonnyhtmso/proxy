@@ -32,3 +32,7 @@ RUN mkdir -p /root/.clawdbot \
     && mkdir -p /root/.clawdbot-templates \
     && mkdir -p /root/clawd \
     && mkdir -p /root/clawd/skills
+
+
+COPY start-moltbot.sh /usr/local/bin/start-moltbot.sh
+RUN chmod +x /usr/local/bin/start-moltbot.sh 
