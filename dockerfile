@@ -1,1 +1,1 @@
-FROM snail007/goproxy:latest
+FROM cloudflare/sandbox:0.7.0 
