@@ -29,4 +29,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: registry.cn-hangzhou.aliyuncs.com/fulcc/moltbot:$(date +%s)
+        tags: registry.cn-hangzhou.aliyuncs.com/fulcc/moltbot:2026.1.25
