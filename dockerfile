@@ -1,1 +1,1 @@
-FROM 1panel/moltbot:2026.1.25
+FROM 1panel/openclaw:2026.2.3
